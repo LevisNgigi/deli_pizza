@@ -31,4 +31,4 @@ Checkout the functionality within the page.
 **Email:** [ngigilevis@gmail.com](#)
 #### Live link to site
 The project was deployed to GitHub pages for publication.     
-To view the [project's live site](https://shaviyavictor.github.io/deli_pizza/).   
+To view the [project's live site](https://levisngigi.github.io/deli_pizza/).   
