@@ -11,8 +11,8 @@ Some of the requirements that the project is supposed to meet include:
 - On checkout, the application displays the orders’ summary together with the total amount charged. 
 
 #### Author
-**Victor Shaviya**
-Moringa School Prep Student.
+**Levis Mbote**
+ALX Student.
 ## Project Setup Instructions
 The project is set up in such a way that it should demonstrate mastery of bootstrap and jQuery frameworks.
 #### How the project works
@@ -28,9 +28,7 @@ Checkout the functionality within the page.
 3. Choose the crust and topping for the pizza on order.
 4. On checkout the application displays a summary of all the orders he/she has made and the total amount to pay for all his/her orders.    
 
-**Email:** [victor.shaviya@student.moringaschool.com](#)
+**Email:** [ngigilevis@gmail.com](#)
 #### Live link to site
 The project was deployed to GitHub pages for publication.     
 To view the [project's live site](https://shaviyavictor.github.io/deli_pizza/).   
-  
-**© Victor Shaviya**, Moringa School Independent Project.
