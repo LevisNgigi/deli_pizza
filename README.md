@@ -1,9 +1,8 @@
 # DELI-PIZZA
 ![Deli-Pizza, a fictional pizza place](https://github.com/ShaviyaVictor/deli_pizza/blob/main/images/screenshot.png?raw=true)
 ## Project Description
-This is a web application that aims to widen the customer base of my fictitious deli pizza place where my customers order different sizes of pizzas with one or more toppings.    
-I am tasked to implement everything I have learnt from Bootstrap, jQuery and JavaScript.    
-Some of the requirements that the project is supposed to meet include:    
+This is a web application that aims to widen the customer base of my friend's deli pizza place where  customers order different sizes of pizzas with one or more toppings.    .    
+ What I wanted to achieve is:    
 - Determine the prices for each pizza size.
 - Each pizza topping should have a set value depending on the size of the pizza.
 - Determine the cost for the crust.
